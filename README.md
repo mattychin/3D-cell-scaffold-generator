@@ -1,4 +1,4 @@
-# 3D Cell Scaffold Generator
+# 3D Cell Scaffold Generator (3D CSG)
 
 **3D Cell Scaffold Generator (3D CSG)** is an algorithmic toolset created by Matthew Chin to generate 3D printable scaffolds, inspired by fibroblastic reticular cell (FRC) networks typically found in secondary lymphoid organs (e.g. lymph nodes). The scaffolds are intended to be used as a 3D cell culture platform in tissue engineering and cell biology research. Step-by-step instructions are provided within the Grasshopper file. Please feel free to make any suggestion to improve this toolset (Email: ucbtmhw@ucl.ac.uk).
 
