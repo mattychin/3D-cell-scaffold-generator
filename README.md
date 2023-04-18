@@ -21,13 +21,13 @@ Library                                                                         
 [LunchBox](https://www.food4rhino.com/en/app/lunchbox)                             | 2020.11.2 .0
 [Pancake](https://www.food4rhino.com/en/app/pancake)                               | 2.5.0.0
 
-
+To use the the algorithm, download the **scaffold_AMI.gh** file and open it inside Grasshopper.
 
 ## Acknowledgements
 
 This work results from a collaboration between Dr. Matthew Chin and Prof. Marc-Olivier Coppens at the [EPSRC "Frontier Engineering" Centre for Nature Inspired Engineering (CNIE)](https://www.ucl.ac.uk/nature-inspired-engineering/ucl-centre-nature-inspired-engineering), University College London (UCL). The biocompatibility study of the scaffolds was conducted in collaboration with Dr. Sophie Acton and Veronika Lachina at the MRC Laboratory for Molecular Cell Biology ([Stromal Immunology Group](https://www.actonlab.co.uk/)).
 
-Funding: CNIE Inspiration Grant
+Funding: This work was supported in part by the Engineering and Physical Sciences Research Council, EPSRC, through a “Frontier Engineering: Progression” Grant (EP/S03305X/1) and an underpinning multi-user equipment grant (EP/P030084/1); NIH NCI, Cancer Research UK and The Mark Foundation for Cancer Research through the Cancer Grand Challenges ([NexTGen](https://nex-t-gen.com/)).
 
 ## License
 
