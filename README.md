@@ -31,4 +31,3 @@ Funding: This work was supported in part by the Engineering and Physical Science
 
 ## License
 
-**3D Cell Scaffold Generator** is released under the terms of MIT License.
