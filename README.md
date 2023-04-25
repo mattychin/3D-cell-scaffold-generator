@@ -31,7 +31,7 @@ Any suggestion to improve this toolset is welcome!
 <a href="https://www.linkedin.com/in/matthewchin92/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-## Getting started ✅
+## Getting started 🚀
 
 This algorithmic toolset was built using [Grasshopper](https://www.grasshopper3d.com/), a graphical algorithm editor available in the computer-aided design (CAD) application, [Rhino 7](https://www.rhino3d.com/).
 
