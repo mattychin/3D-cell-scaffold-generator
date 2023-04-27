@@ -1,4 +1,4 @@
-# 3D Cell Scaffold Generator (3D CSG) 🧑‍💻🔬🧫
+# 3D Cell Scaffold Generator (3D CSG) 💻🔬🧫
 
 
 **What:** 3D Cell Scaffold Generator (3D CSG) is a Grasshopper-based algorithmic toolset created by Dr Matthew Chin to generate bioinspired, 3D printable scaffolds. This toolset was developed as part of a project to create cell scaffolds recapitulating the structural complexity of tissue microenvironments.
