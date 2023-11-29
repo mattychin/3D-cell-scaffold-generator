@@ -11,7 +11,7 @@
 
 # ✍ To cite: 
 
-**Chin, M. H. W., Reid, B., Lachina, V., Acton, S. E. & Coppens, M.-O. Bioinspired 3D microprinted cell scaffolds: Integration of graph theory to recapitulate complex network wiring in lymph nodes. Biotechnology Journal. [10.1002/biot.202300359](10.1002/biot.202300359) (Nov. 2023).**
+**Chin, M. H. W., Reid, B., Lachina, V., Acton, S. E. & Coppens, M.-O. Bioinspired 3D microprinted cell scaffolds: Integration of graph theory to recapitulate complex network wiring in lymph nodes. Biotechnology Journal. [doi: 10.1002/biot.202300359](https://doi.org/10.1002/biot.202300359) (Nov. 2023).**
 
 # 📚 Further reading: 
 
